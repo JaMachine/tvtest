@@ -1,0 +1,19 @@
+{
+  "channels": [
+    {
+      "name": "omanTV",
+      "stream": "https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8",
+      "image": "t"
+    },
+    {
+      "name": "Samsung UK",
+      "stream": "https://pbs-samsunguk.amagi.tv/playlist.m3u8",
+      "image": "t"
+    },
+    {
+      "name": "Canale 16",
+      "stream": "https://www.telesirio.it/live/stream.m3u8",
+      "image": "t"
+    }
+  ]
+}
