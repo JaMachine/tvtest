@@ -21,6 +21,11 @@
       "stream": "https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8",
       "image": "t"
     },
+			    {
+      "name": "1 + 1",
+      "stream": "https://live-k2306-kbp.1plus1.video/live/1634301300/xtJInYvPnTcNfhfe05uBJQ/184723/smil:184723.smil/chunklist_b2128000.m3u8",
+      "image": "t"
+    },
     {
       "name": "Canale 16",
       "stream": "https://www.telesirio.it/live/stream.m3u8",
