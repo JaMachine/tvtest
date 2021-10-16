@@ -17,14 +17,26 @@
     },
 	
 		    {
-      "name": "Интер",
-      "stream": "https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8",
+      "name": "???",
+      "stream": "https://flu.vtv.by/tvt-non-by/tracks-v1a1/mono.m3u8",
       "image": "t"
     },
-			    {
-      "name": "1 + 1",
-      "stream": "https://live-k2306-kbp.1plus1.video/live/1634301300/xtJInYvPnTcNfhfe05uBJQ/184723/smil:184723.smil/chunklist_b2128000.m3u8",
+  {
+      "name": "Canal 26",
+      "stream": "https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8",
       "image": "t"
+    },
+	
+	  {
+      "name": "Savoir. Media",
+      "stream": "https://hls.savoir.media/live/stream.m3u8",
+      "image": "t"
+    },
+	
+		  {
+      "name": "Retro Music Television",
+      "stream": "https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8",
+      "image": "https://i.imgur.com/a6S2Yo4.png"
     },
     {
       "name": "Canale 16",
